@@ -8,5 +8,3 @@
 <p><b>You can contact me at</b>👇</p>
   <ul>
     <li><a href="https://www.linkedin.com/in/rojasagusf/">Linkedin</a>
-    <li><a href="https://www.instagram.com/rojasagusf/">Instagram</a>
-    <li><a href="https://twitter.com/rojasagusff">Twitter</a>
