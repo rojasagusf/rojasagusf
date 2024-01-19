@@ -48,8 +48,6 @@
 
 ### Work Experience 
 
-In the overview below, you will find my most recent work experience::
-
 [<img align="left" height="94px" width="94px" style="margin-right: 1rem;" alt="Warpnet" src="https://grava.io/assets/img/grava_full.svg"/>](https://grava.io/en/home)
 
 **Full Stack Developer** \
