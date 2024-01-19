@@ -15,7 +15,7 @@
 
 ### About Me
 
--🤔 Exploring new technologies and developing software solutions.
+🤔 Exploring new technologies and developing software solutions.
 <br/>
 🎓 Studying Informatics Engineering at Universidad Nacional de la Matanza.
 <br/>
