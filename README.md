@@ -19,7 +19,7 @@
 <br/>
 🎓 Studying Informatics Engineering at Universidad Nacional de la Matanza.
 <br/>
-💼 Working as a Full Stack Developer at Grava.
+💼 Working as a Backend Developer at Takenos.
 <br/>
 🌱 Learning more about optimization and performance in web development
 
@@ -52,7 +52,7 @@
 
 **Full Stack Developer** \
 [**Grava**](https://grava.io/en/home) • Full-time \
-March 2022 - Present **(Working)** \
+March 2022 - November 2024 **(Working)** \
 Languages & Technologies: `Node.js`, `Next.js`, `Express`, `PostgreSQL`, `Linux Servers`, `MongoDB`,\
 Highlighted Projects: [Patagonia Capital](https://patagoniacapital.net/), [Podium](https://podium.grava.io/)
 
