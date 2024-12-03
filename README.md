@@ -52,7 +52,7 @@
 
 **Full Stack Developer** \
 [**Grava**](https://grava.io/en/home) • Full-time \
-March 2022 - November 2024 **(Working)** \
+March 2022 - November 2024 \
 Languages & Technologies: `Node.js`, `Next.js`, `Express`, `PostgreSQL`, `Linux Servers`, `MongoDB`,\
 Highlighted Projects: [Patagonia Capital](https://patagoniacapital.net/), [Podium](https://podium.grava.io/)
 
